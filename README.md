@@ -21,4 +21,5 @@ Setups
 Java.
 
 ## Screenshots
+![cal1](https://github.com/Sumedha9717/Simple_calculater_Java/assets/137753353/ff9827fd-d219-4db2-951c-0af2a99c25c3)
 
